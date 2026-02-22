@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkset=self.webpackChunkset||[]).push([[35],{4035:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});var l=a(579);const c=e=>{let{number:s,name:a}=e;return(0,l.jsxs)("div",{className:"send_glava",children:[s&&(0,l.jsx)("h1",{className:"h1",children:s}),a&&(0,l.jsx)("h3",{className:"h3",children:a})]})}}}]);
+//# sourceMappingURL=35.314d1439.chunk.js.map
