@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/readme/static/css/main.5b9a3bdf.css",
-    "main.js": "/readme/static/js/main.c87967c3.js",
+    "main.css": "/readme/static/css/main.4f5528f5.css",
+    "main.js": "/readme/static/js/main.28808a89.js",
     "static/css/468.5d74f02e.chunk.css": "/readme/static/css/468.5d74f02e.chunk.css",
     "static/js/468.ba9d75bf.chunk.js": "/readme/static/js/468.ba9d75bf.chunk.js",
     "static/css/315.21af3799.chunk.css": "/readme/static/css/315.21af3799.chunk.css",
@@ -18,8 +18,8 @@
     "static/media/11i.jpeg": "/readme/static/media/11i.ac10be8ccb8e80a06517.jpeg",
     "static/media/houschkapro-bolditalic.woff2": "/readme/static/media/houschkapro-bolditalic.97b93bf36cf99b7db088.woff2",
     "index.html": "/readme/index.html",
-    "main.5b9a3bdf.css.map": "/readme/static/css/main.5b9a3bdf.css.map",
-    "main.c87967c3.js.map": "/readme/static/js/main.c87967c3.js.map",
+    "main.4f5528f5.css.map": "/readme/static/css/main.4f5528f5.css.map",
+    "main.28808a89.js.map": "/readme/static/js/main.28808a89.js.map",
     "468.5d74f02e.chunk.css.map": "/readme/static/css/468.5d74f02e.chunk.css.map",
     "468.ba9d75bf.chunk.js.map": "/readme/static/js/468.ba9d75bf.chunk.js.map",
     "315.21af3799.chunk.css.map": "/readme/static/css/315.21af3799.chunk.css.map",
@@ -35,7 +35,7 @@
     "962.a0bc3a04.chunk.js.map": "/readme/static/js/962.a0bc3a04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b9a3bdf.css",
-    "static/js/main.c87967c3.js"
+    "static/css/main.4f5528f5.css",
+    "static/js/main.28808a89.js"
   ]
 }
