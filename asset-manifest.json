@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/readme/static/css/main.8d6e2650.css",
-    "main.js": "/readme/static/js/main.b15518ec.js",
+    "main.css": "/readme/static/css/main.8f32bf29.css",
+    "main.js": "/readme/static/js/main.e525f321.js",
     "static/css/468.5d74f02e.chunk.css": "/readme/static/css/468.5d74f02e.chunk.css",
     "static/js/468.ba9d75bf.chunk.js": "/readme/static/js/468.ba9d75bf.chunk.js",
     "static/css/315.dce5f905.chunk.css": "/readme/static/css/315.dce5f905.chunk.css",
@@ -18,8 +18,8 @@
     "static/media/houschkapro-bolditalic.woff2": "/readme/static/media/houschkapro-bolditalic.97b93bf36cf99b7db088.woff2",
     "static/media/Microsoft.VisualStudio.Services.Icons1.png": "/readme/static/media/Microsoft.VisualStudio.Services.Icons1.88a7d255b39034a6fb64.png",
     "index.html": "/readme/index.html",
-    "main.8d6e2650.css.map": "/readme/static/css/main.8d6e2650.css.map",
-    "main.b15518ec.js.map": "/readme/static/js/main.b15518ec.js.map",
+    "main.8f32bf29.css.map": "/readme/static/css/main.8f32bf29.css.map",
+    "main.e525f321.js.map": "/readme/static/js/main.e525f321.js.map",
     "468.5d74f02e.chunk.css.map": "/readme/static/css/468.5d74f02e.chunk.css.map",
     "468.ba9d75bf.chunk.js.map": "/readme/static/js/468.ba9d75bf.chunk.js.map",
     "315.dce5f905.chunk.css.map": "/readme/static/css/315.dce5f905.chunk.css.map",
@@ -35,7 +35,7 @@
     "962.a0bc3a04.chunk.js.map": "/readme/static/js/962.a0bc3a04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d6e2650.css",
-    "static/js/main.b15518ec.js"
+    "static/css/main.8f32bf29.css",
+    "static/js/main.e525f321.js"
   ]
 }
