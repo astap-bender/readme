@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/readme/static/css/main.16b610f4.css",
-    "main.js": "/readme/static/js/main.28808a89.js",
+    "main.css": "/readme/static/css/main.76d2e9b3.css",
+    "main.js": "/readme/static/js/main.037d9f2c.js",
     "static/css/468.5d74f02e.chunk.css": "/readme/static/css/468.5d74f02e.chunk.css",
     "static/js/468.ba9d75bf.chunk.js": "/readme/static/js/468.ba9d75bf.chunk.js",
     "static/css/315.21af3799.chunk.css": "/readme/static/css/315.21af3799.chunk.css",
@@ -14,12 +14,22 @@
     "static/js/316.bfe9d2d5.chunk.js": "/readme/static/js/316.bfe9d2d5.chunk.js",
     "static/css/899.c37326f6.chunk.css": "/readme/static/css/899.c37326f6.chunk.css",
     "static/js/899.48e94b75.chunk.js": "/readme/static/js/899.48e94b75.chunk.js",
+    "static/css/903.b7389598.chunk.css": "/readme/static/css/903.b7389598.chunk.css",
+    "static/js/903.16f31587.chunk.js": "/readme/static/js/903.16f31587.chunk.js",
+    "static/css/708.24ec0967.chunk.css": "/readme/static/css/708.24ec0967.chunk.css",
+    "static/js/708.38db0ecf.chunk.js": "/readme/static/js/708.38db0ecf.chunk.js",
+    "static/css/956.8a62388c.chunk.css": "/readme/static/css/956.8a62388c.chunk.css",
+    "static/js/956.068242c5.chunk.js": "/readme/static/js/956.068242c5.chunk.js",
+    "static/css/678.292acde0.chunk.css": "/readme/static/css/678.292acde0.chunk.css",
+    "static/js/678.f2dc96df.chunk.js": "/readme/static/js/678.f2dc96df.chunk.js",
+    "static/css/940.02664b97.chunk.css": "/readme/static/css/940.02664b97.chunk.css",
+    "static/js/940.a4ac7b65.chunk.js": "/readme/static/js/940.a4ac7b65.chunk.js",
     "static/js/962.a0bc3a04.chunk.js": "/readme/static/js/962.a0bc3a04.chunk.js",
     "static/media/11i.jpeg": "/readme/static/media/11i.ac10be8ccb8e80a06517.jpeg",
     "static/media/houschkapro-bolditalic.woff2": "/readme/static/media/houschkapro-bolditalic.97b93bf36cf99b7db088.woff2",
     "index.html": "/readme/index.html",
-    "main.16b610f4.css.map": "/readme/static/css/main.16b610f4.css.map",
-    "main.28808a89.js.map": "/readme/static/js/main.28808a89.js.map",
+    "main.76d2e9b3.css.map": "/readme/static/css/main.76d2e9b3.css.map",
+    "main.037d9f2c.js.map": "/readme/static/js/main.037d9f2c.js.map",
     "468.5d74f02e.chunk.css.map": "/readme/static/css/468.5d74f02e.chunk.css.map",
     "468.ba9d75bf.chunk.js.map": "/readme/static/js/468.ba9d75bf.chunk.js.map",
     "315.21af3799.chunk.css.map": "/readme/static/css/315.21af3799.chunk.css.map",
@@ -32,10 +42,20 @@
     "316.bfe9d2d5.chunk.js.map": "/readme/static/js/316.bfe9d2d5.chunk.js.map",
     "899.c37326f6.chunk.css.map": "/readme/static/css/899.c37326f6.chunk.css.map",
     "899.48e94b75.chunk.js.map": "/readme/static/js/899.48e94b75.chunk.js.map",
+    "903.b7389598.chunk.css.map": "/readme/static/css/903.b7389598.chunk.css.map",
+    "903.16f31587.chunk.js.map": "/readme/static/js/903.16f31587.chunk.js.map",
+    "708.24ec0967.chunk.css.map": "/readme/static/css/708.24ec0967.chunk.css.map",
+    "708.38db0ecf.chunk.js.map": "/readme/static/js/708.38db0ecf.chunk.js.map",
+    "956.8a62388c.chunk.css.map": "/readme/static/css/956.8a62388c.chunk.css.map",
+    "956.068242c5.chunk.js.map": "/readme/static/js/956.068242c5.chunk.js.map",
+    "678.292acde0.chunk.css.map": "/readme/static/css/678.292acde0.chunk.css.map",
+    "678.f2dc96df.chunk.js.map": "/readme/static/js/678.f2dc96df.chunk.js.map",
+    "940.02664b97.chunk.css.map": "/readme/static/css/940.02664b97.chunk.css.map",
+    "940.a4ac7b65.chunk.js.map": "/readme/static/js/940.a4ac7b65.chunk.js.map",
     "962.a0bc3a04.chunk.js.map": "/readme/static/js/962.a0bc3a04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16b610f4.css",
-    "static/js/main.28808a89.js"
+    "static/css/main.76d2e9b3.css",
+    "static/js/main.037d9f2c.js"
   ]
 }
